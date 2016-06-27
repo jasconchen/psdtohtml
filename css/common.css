@@ -1,0 +1,23 @@
+/*
+* @Author: USER
+* @Date:   2016-06-27 20:50:39
+* @Last Modified by:   USER
+* @Last Modified time: 2016-06-27 21:16:23
+*/
+.public-header {
+    height: 110px;
+    background-color: #003bb3;
+}
+.public-container {
+    width: 1100px;
+    position: relative;
+    margin: 0 auto;
+    background-color: #006dcc;
+}
+.public-footer {
+    height: 318px;
+    background-color: #3b3b3b;
+}
+.header-nav li {
+    
+}

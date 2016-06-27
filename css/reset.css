@@ -18,10 +18,10 @@ img {
 	display: block;
 }
 
-.clearfloat {
+.clearfix {
 	zoom:1
 }
-.clearfloat:after {
+.clearfix:after {
 	content: '';
 	display: block;
 	clear: both;
