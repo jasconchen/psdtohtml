@@ -159,6 +159,9 @@
 .index-panel-body {
 	margin-top: 75px;
 }
+
+
+
 .index-panel-list {
 	overflow: hidden;
 }
@@ -178,6 +181,9 @@
 	color: #555;
 	margin-bottom: 10px;
 }
+.index-panel-list .food-item .price {
+	float: right;
+}
 .index-panel-list .food-item .star-bar {
 	font-size: 0;
 }
@@ -185,5 +191,28 @@
 	display: inline-block;
 	width: 12px;
 	height: 13px;
+	margin-right: 5px;
+	background-image: url(../images/index-star.png);
+	background-repeat: no-repeat;
 }
+.index-panel-list .food-item .nostar {
+	background-position: 0 -13px;
+} 
 
+
+.index-pic {
+	height: 380px;
+	overflow: hidden;
+}
+.index-pic .pic-col {
+	float: left;
+}
+..pic-col-s {
+	width: 287px;
+}
+..pic-col-m {
+	width: 353px;
+}
+..pic-col-l {
+	width: 460px;
+}

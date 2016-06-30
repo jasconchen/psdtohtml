@@ -2,7 +2,7 @@
 * @Author: USER
 * @Date:   2016-06-27 20:50:39
 * @Last Modified by:   USER
-* @Last Modified time: 2016-06-27 21:16:23
+* @Last Modified time: 2016-06-30 21:09:00
 */
 .public-header {
     height: 110px;
@@ -39,6 +39,7 @@
 
 .public-footer {
     height: 218px;
+    margin-top: 200px;
     padding-top: 100px;
     background-color: #3b3b3b;
 }
