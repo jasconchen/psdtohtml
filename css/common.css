@@ -14,7 +14,7 @@
 .public-header .header-logo a {
 	width: 181px;
 	height: 54px;
-	background: url(../images/header-logo.png);
+	background: url(../images/header-logo.png) no-repeat;
 }
 .public-header .header-nav {
 	float: right;
@@ -54,7 +54,7 @@
 .public-footer .footer-col a {
 	color: #fff;
 }
-.public-footer .footer-col:last-child {
+.public-footer .footer-col-nor {
 	margin-right: 0;
 }
 .public-footer .footer-logo {
@@ -62,5 +62,5 @@
 	height: 55px;
 	margin-top: -10px;
 	margin-bottom: 12px;
-	background: url(../images/footer-logo.png);
+	background: url(../images/footer-logo.png) no-repeat;
 }
